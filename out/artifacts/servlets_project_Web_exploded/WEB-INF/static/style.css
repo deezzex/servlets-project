@@ -1,0 +1,56 @@
+
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+.main-container{
+    display: flex;
+    height: 43em;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer{
+    text-align: center;
+}
+
+.card{
+    margin: 0;
+    height: 31rem;
+}
+
+.card-body{
+    align-items: center;
+    justify-content: center;
+}
+
+.card-img-top{
+    width: 410px;
+}
+
+.card-title{
+    text-align: center;
+}
+
+.sign-up-button{
+    text-align: center;
+    text-decoration: none;
+}
+
+.input-group-text{
+    width: 170px;
+}
+
+.errors{
+    margin-top: 10px;
+    color: red;
+    text-align: center;
+    font-weight: bold;
+}
+
+.navbar{
+    background-color: #e3f2fd;
+}
+
+
+
